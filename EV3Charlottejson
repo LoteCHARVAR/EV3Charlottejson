@@ -1,13 +1,13 @@
 [
  {
-  "run": "14141414-9",
-  "nombre": "Alumno",
-  "apellido": "POO",
-  "direccion": "Inacap",
-  "fono": 14141414,
-  "correo":"correo@correo.cl",
-  "montoCredito": 505050,
-  "deuda":606060,
-  "tipo": 3
+  "run": "21377478-6",
+  "nombre": "Charlotte",
+  "apellido": "Perez",
+  "direccion": "Los Lirios",
+  "fono": 932138964,
+  "correo":"charlottelyss44@gmail.com",
+  "montoCredito": 200,
+  "deuda": 200,
+  "tipo": 1
  }
 ]
